@@ -4,6 +4,8 @@ Install MongoDB on your computer and run it on the standard port.
 
 Download the HW1-1 from the Download Handout link and uncompress it.
 
+[Handout link](https://github.com/gerareyes/MongoDBUniversity/tree/master/M101N/HW1.1/dump)
+
 Use mongorestore to restore the dump into your running mongod. Do this by opening a terminal window (mac) or cmd window (windows) and navigating to the directory so that you are in the parent directory of the dump directory (if you used the default extraction method, it should be hw1/). Now type:
 
 ```
