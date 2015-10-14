@@ -1,31 +1,31 @@
-// Using Windows Commandline
+Using Windows Commandline
 
-// Run mongodb Server
+Run mongodb Server
 ```
 mongod
 ```
 
-// Restore database
+Restore database
 ```
 mongorestore dump
 ```
 
-// Enter to mongodb shell
+Enter to mongodb shell
 ```
 mongo
 ```
 
-// Inside mongo shell, switch to m101 database
+Inside mongo shell, switch to m101 database
 ```
 use m101
 ```
 
-// Get 1 record from hw1 collection
+Get 1 record from hw1 collection
 ```
 db.hw1.findOne()
 ```
 
-// Previous query result
+Previous query result
 ```
 {
   "_id" : ObjectId("50773061bf44c220307d8514"),
@@ -34,7 +34,7 @@ db.hw1.findOne()
 }
 ```
 
-// Answer
+Answer
 ```
 42
 ```
